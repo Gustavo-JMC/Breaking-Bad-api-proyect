@@ -1,0 +1,17 @@
+@import "./common/vars.scss";
+@import "./common/mixins.scss";
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.homepage_container {
+	height: 100vh;
+	background-image: url("https://img3.goodfon.com/wallpaper/nbig/3/66/lego-breaking-bad-walter.jpg");
+}
+
+.tableview_container {
+	height: 100%;
+	background-color: #31302e;
+}
